@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+</head>
+<body>
+        <form method="post" action="sever.php">
+                <p><lable>姓名：<input name="username" type="text" placeholder="请输入你的姓名"> </lable></p>
+                <p>
+                    <label for="sex">性别：</label>
+                    <input type="radio" name="sex" value="male" checked>男
+                    <input type="radio" name="sex"  value="female">女
+                </p>
+                <p><lable>电话：<input name="tel" type="text"> </lable></p>
+                <p><lable>邮箱：<input name="email" type="text"> </lable></p>
+                <p><lable>时间：<input name="date" type="text"> </lable></p>
+            <p>
+                <label for="equipment">请选择预约的仪器</label>
+                <select name="equipment">
+                    <option value="1">分光光度计</option>
+                    <option value="2">气相色谱仪</option>
+                    <option value="3">低速离心机</option>
+                    <option value="4">电子天平</option>
+                </select>
+            </p>
+                <p>
+                <label><input type="checkbox" name="rule">遵守实验仪器规范</label>
+                </p>
+            <p><button>提交表单</button></p>
+            
+            </form>
+</body>
+</html>

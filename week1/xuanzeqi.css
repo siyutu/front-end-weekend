@@ -1,0 +1,25 @@
+
+#second{
+    background: red;
+
+}
+*{
+    font-size: 25px;
+   
+}
+.first{
+    background: blue;
+}
+
+p{
+    background-color: navajowhite;
+}
+h3{
+font-size: 15px;
+}
+div p{
+    background: mediumorchid;
+}
+div,p{
+    background: lime;
+}

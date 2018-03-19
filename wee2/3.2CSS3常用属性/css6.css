@@ -1,0 +1,15 @@
+ul{
+    margin: 0;
+    padding: 0;
+}
+li{
+    background: #C0392b;
+    height: 50px;
+    color: #fff;
+    margin: 5px 0;
+    text-indent: 35px;
+    background: #C0392b url(amazing.png) no-repeat 10px 50%;
+}
+li:hover{
+    background-color: #000000;
+}

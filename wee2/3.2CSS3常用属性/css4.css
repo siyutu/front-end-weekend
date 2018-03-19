@@ -1,0 +1,27 @@
+h1{
+    color: #fff;
+    background: blue;
+    width: 100px;
+    float: left;
+}
+p{
+    color: #FFF;
+    background: red;
+    width: 500px;
+    float: right;
+      
+}
+span{
+    color: #FFF;
+    background: orange;
+    position: absolute;
+    display: block;
+    top: 10px;
+
+
+}
+h1,p{
+    
+    position: relative;
+    
+}

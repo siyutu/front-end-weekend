@@ -1,0 +1,12 @@
+body{
+    background-color: blue;
+}
+.block{
+    border: 5px dotted red;
+    border-radius: 50%
+}
+
+img{
+    border: 10px solid #FFF;
+    border-radius: 50%
+}

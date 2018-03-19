@@ -1,0 +1,20 @@
+body{
+    color: #FFF;
+    background: #edf5f9;
+    position: relative;
+
+}
+.box{
+    background: #2980b9;
+    position: absolute;
+
+}
+h1{
+    background: #3498db;
+    padding:20px;
+    margin: 20px;
+    border: 5px,solid,red;
+    width: 120px;
+    height:120px;
+    box-sizing: border-box;
+}

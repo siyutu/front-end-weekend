@@ -1,0 +1,25 @@
+ul{
+    margin: 0;
+    padding: 0;
+}
+li{
+    background: #C0392b;
+    height: 50px;
+    color: #fff;
+    margin: 5px 0;
+    text-indent: 35px;
+    background: #C0392b url(amazing.png) no-repeat 10px 50%;
+    box-sizing: border-box;
+    width: 200px;
+    float: left;
+    margin-right: 4%;
+    width: 22%;
+    min-width: 120px;
+
+}
+li:hover{
+    background-color: #000000;
+}
+li:last-child{
+    margin-right: 0%;
+}

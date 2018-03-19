@@ -1,0 +1,17 @@
+
+h1{
+    color: #f00;
+    font-weight: normal;
+    font-size: 3em;
+    background: #ecf0f1;
+    height: 100px ;
+    line-height: 100px; 
+
+}
+p{
+    font-weight: bold;
+    text-indent: 2em;
+    line-height: 150%;
+}
+h1,p{
+    font-family: Courier New, Courier, monospace}
